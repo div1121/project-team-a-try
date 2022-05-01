@@ -21,9 +21,6 @@ Our team will do
 ### **Code**
 
 ```c
-int main(){
-    return 0;
-}
 {% include_relative code.c %}
 ```
 
