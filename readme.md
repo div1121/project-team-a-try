@@ -32,5 +32,8 @@ Our team will do
 {% for student in site.stu %}
 - ![student]{{student.image}} @{{ student.user }} ({{ student.name }})
     - {{ student.content}}
-    
+
 {% endfor %}
+
+---
+Last updated: {{ site.time }}
