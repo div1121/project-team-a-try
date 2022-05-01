@@ -17,7 +17,7 @@ Our team will do
 - Task 7) Register your repo
  
 ### **Code**
-{% include_relative ./code.c %}
+{% include_relative code.c %}
 
 ![example workflow](https://github.com/div1121/project-team-a-try/actions/workflows/c-cpp.yml/badge.svg)
  
