@@ -30,7 +30,7 @@ Our team will do
 
 ### **Contribution**
 {% for student in site.stu %}
-    <img alt="student image" src="{{student.image}}">
-    <h3>@{{ student.user }} ({{ student.name }})</h3>
-    {{ student.content | markdownify }}
+- ![student]{{student.image}} @{{ student.user }} ({{ student.name }})
+    - {{ student.content}}
+    
 {% endfor %}
