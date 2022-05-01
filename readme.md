@@ -20,7 +20,10 @@ Our team will do
  
 ### **Code**
 
-```C
+```c
+int main(){
+    return 0;
+}
 {% include_relative code.c %}
 ```
 
