@@ -24,7 +24,7 @@ Our team will do
 {% include_relative code.c %}
 ```
 
-![badge](https://github.com/div1121/project-team-a-try/blob/master/image_for_c.JPG)
+![badge](https://github.com/div1121/project-team-a-try/blob/master/image_for_c.JPG?raw=true)
 
 ![example workflow](https://github.com/div1121/project-team-a-try/actions/workflows/c-cpp.yml/badge.svg)
 
