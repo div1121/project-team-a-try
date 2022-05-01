@@ -29,3 +29,8 @@ Our team will do
 ![example workflow](https://github.com/div1121/project-team-a-try/actions/workflows/c-cpp.yml/badge.svg)
 
 ### **Contribution**
+{% for student in site.stu %}
+    <img alt="student image" src="{{student.image}}">
+    <h3>@{{ student.user }} ({{ student.name }}</h3>
+    <p>{{ student.content | markdownify }}</p>
+{% endfor %}
