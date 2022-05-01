@@ -1,9 +1,11 @@
 {% comment %}
+
 # This team hasn't started yet...
 
 Check back later!
 
 **Please read `tasks.md` to start your work.**
+
 {% endcomment %}
 
 ### **Introduction**
@@ -17,7 +19,10 @@ Our team will do
 - Task 7) Register your repo
  
 ### **Code**
+
+```C
 {% include_relative code.c %}
+```
 
 ![example workflow](https://github.com/div1121/project-team-a-try/actions/workflows/c-cpp.yml/badge.svg)
  
